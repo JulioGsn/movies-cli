@@ -5,10 +5,10 @@ Welcome to Movies CLI, the eccentric, movie-loving command-line tool that fetche
 
 # Current Features
 
-🎬 Plot Twist: Use the --p flag to unravel the Plot of any movie!
-📅 Time Capsule: The --y flag reveals the Year a movie graced the silver screen!
+- 🎬 Plot Twist: Use the --p flag to unravel the Plot of any movie!
+- 📅 Time Capsule: The --y flag reveals the Year a movie graced the silver screen!
 
 # Future Blockbusters
 
-🎭 Only what you want see: Fetch and show specific information about movies, like author, year and plot!
-📜 Create local records of the data to save some fetchs
+- 🎭 Only what you want see: Fetch and show specific information about movies, like author, year and plot!
+- 📜 Create local records of the data to save some fetchs
