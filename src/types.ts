@@ -52,7 +52,7 @@ export type Movie = {
   BoxOffice: string;
   Production: string;
   Website: string;
-  Response: "True" | "False";
+  Response?: "True" | "False";
 };
 
 export type ShowOnlyOpts = keyof Movie;

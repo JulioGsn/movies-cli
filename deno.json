@@ -1,5 +1,8 @@
 {
   "tasks": {
-    "start": "deno run -N --allow-env --allow-read index.ts"
+    "start": "deno run -N --allow-env --allow-read --unstable-ffi --allow-ffi src/index.ts"
+  },
+  "imports": {
+    "@db/sqlite": "jsr:@db/sqlite@^0.12.0"
   }
 }
